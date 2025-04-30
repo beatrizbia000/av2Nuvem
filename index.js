@@ -26,7 +26,7 @@ app.get("/Sobre",function(req,res){
   `)
 });
 
-app.get("/Contato",function(req,res){
+app.get("/Produtos",function(req,res){
     res.send(`
     <html>
       <head><title>Contato</title></head>
